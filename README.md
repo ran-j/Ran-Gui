@@ -13,6 +13,11 @@ This is a simple windows only GUI framework built using Direct2D, designed to pr
 
 Check the example in the `example` directory.
 
+| Example | Description |
+| --- | --- |
+| <img src="example/example1.png" alt="Example 1" style="max-width: 20%;"> | [Simple UI](example/dx_app/dx_app.cpp) |
+| <img src="example/example2.png" alt="Example 2" style="max-width: 20%"> | [Complex UI](example/simple/simple.cpp) | 
+
 ## Requirements
 
 - Windows
